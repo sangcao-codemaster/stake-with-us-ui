@@ -18,7 +18,7 @@
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
     "moment-timezone": "^0.5.26",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "pdfobject": "^2.1.1",
     "popper": "^1.0.1",
     "popper.js": "^1.15.0",
